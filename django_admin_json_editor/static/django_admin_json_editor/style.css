@@ -16,4 +16,7 @@ div.sceditor-container {
 }
 .property-selector .form-check-label:after {
     display: none  !important;
+/*Remove django list styling*/
+ul li {
+    list-style-type: none;
 }
